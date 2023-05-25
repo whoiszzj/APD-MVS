@@ -8,11 +8,13 @@ Our paper was accepted by CVPR 2023!
 If you find this project useful for your research, please cite:  
 
 ```
-@article{xxxxxxxxxxxxxxxxxxx,  
-  title={Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo}, 
-  author={xxxxxxxxxxxxxxxxxxx}, 
-  journal={Computer Vision and Pattern Recognition (CVPR)},
-  year={2023}
+@InProceedings{Wang_2023_CVPR,
+    author    = {Wang, Yuesong and Zeng, Zhaojie and Guan, Tao and Yang, Wei and Chen, Zhuo and Liu, Wenkai and Xu, Luoyuan and Luo, Yawei},
+    title     = {Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {1621-1630}
 }
 ```
 ## Dependencies
