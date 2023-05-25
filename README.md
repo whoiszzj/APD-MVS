@@ -53,7 +53,7 @@ We use the version provided by MVSNet. The dataset can be downloaded from [here]
 
 #### Other Dataset
 
-Such as DTU and BlenderMVS, you may explore them yourself.
+Such as DTU and BlenderMVS, you may explore them yourself. !!! But remerember to modify the [ReadCamera](https://github.com/whoiszzj/APD-MVS/blob/d9f9731235f4db05712024213e32346b6a01f5d6/APD.cpp#L84) function when you test on DTU !!!
 
 ### Run
 
